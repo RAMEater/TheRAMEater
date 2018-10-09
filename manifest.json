@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "RamEater",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "assassinskeeper",
   "files": [
     {
@@ -1031,7 +1031,7 @@
     },
     {
       "projectID": 273771,
-      "fileID": 2494123,
+      "fileID": 2570796,
       "required": true
     },
     {
