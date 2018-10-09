@@ -1,0 +1,1 @@
+tmux new -s rameater -d java -Xmx10G -Xms10G -server -jar forge-1.12.2-14.23.5.2769-universal.jar nogui
