@@ -1,7 +1,7 @@
 @echo off
 
 REM For ease of use and maintainability, we add this here.
-set SERVER_JAR=forge-1.12.2-14.23.5.2769-universal.jar
+set SERVER_JAR=forge-1.12.2-14.23.4.2766-universal.jar
 
 :start_server
 echo Starting Server...

@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export INSTALL_JAR="forge-1.12.2-14.23.5.2769-installer.jar"
+export INSTALL_JAR="forge-1.12.2-14.23.4.2766-installer.jar"
 
 install_files() {
     java -jar ${INSTALL_JAR} --installServer > /dev/null 2>&1
